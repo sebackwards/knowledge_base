@@ -1,0 +1,14 @@
+{
+    "name": "eval_web_app",
+    "version": "1.0.0",
+    "description": "eval web app",
+    "author": "sebackwards",
+    "main": "eval-server.js",
+    "scripts": {
+      "start": "eval-server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.1"
+    }
+  }
+  
